@@ -19,9 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: 
 github_username: blucifer22
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -60,16 +59,21 @@ plugins:
 author:
   name   : "Marc Chmielewski"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Duke '22 🔵😈\n
-  B.S.E Electrical and Computer Engineering\n
-  B.S. Computer Science\n
-  Avid Rustacean 🦀\n
-  🏃 🏊 🧗‍♂️ OCR \n
-  UP THE IRONS! 🎸🤘\n"
+  bio    : '
+  Duke ''22 🔵😈 ECE/CS 
+
+
+  Avid Rustacean 🦀
+
+
+  🏃 🏊 🧗‍♂️ OCR
+
+  
+  UP THE IRONS! 🎸🤘'
 
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-linkedin-square"
+    - label: " LinkedIn"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/marc-chmielewski-87547514b/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
