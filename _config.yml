@@ -60,20 +60,23 @@ plugins:
 author:
   name   : "Marc Chmielewski"
   avatar : "/assets/images/profile.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Duke '22 🔵😈\n
+  B.S.E Electrical and Computer Engineering\n
+  B.S. Computer Science\n
+  Avid Rustacean 🦀\n
+  🏃 🏊 🧗‍♂️ OCR \n
+  UP THE IRONS! 🎸🤘\n"
+
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/marc-chmielewski-87547514b/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/blucifer22"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/marc.chmielewski/"
 
 footer:
   links:
