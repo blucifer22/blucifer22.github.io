@@ -11,11 +11,11 @@ A bit about myself, I'm a Third-Year Electrical Computer Engineering and Compute
 
 The purpose of this site is triplicate:
 
-- To chronicle my (mis)adventures in the Engineer-O-Sphere
+- To chronicle my (mis)adventures in the Engineer-O-Sphere(TM)
 - To showcase some cool projects, FOSS, and other stuff I've been monkeying on
 - Provide my fellow gifted primates with tutorials, advice[^1], and other thought-germs and musings I've picked up along the way
 
-Formalities aside, this page is designed to give a bit of a window into what us engineering folks actually *do*. (Read: I'm not ALWAYS a code monkey![^2]) Hopefully it accomplishes this goal. If not, I'm gonna assume the secondary objective of *"chronicling the increasingly depraved rants of an Electrical Engineering student"* will near certainly have been met.
+Formalities aside, this page is designed to give a bit of a window into what us engineering folks actually *do*. (Read: I'm not ALWAYS a code monkey![^2]) Hopefully it accomplishes this goal. If not, I'm gonna assume the secondary objectives of *"chronicling the increasingly depraved rants of an Electrical Engineering student"* and *"Occasionally being mistaken for that other famous university student with the -ski last name"* will near-certainly have been met.
 
 Welp, that's all for now. This is definitely a living document, so check back for updates soon-ish?
 Until next time...
