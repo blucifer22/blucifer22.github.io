@@ -16,9 +16,7 @@
 title: Marc-Up
 email: marc.steven.chmielewski@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Marc Chmielewski's portfolio/blog/random musings about engineering, code, and the meaning of everything.
 github_username: blucifer22
 minimal_mistakes_skin: dark
 search: true
@@ -59,24 +57,15 @@ plugins:
 author:
   name   : "Marc Chmielewski"
   avatar : "/assets/images/profile.jpg"
-  bio    : '
-  Duke ''22 🔵😈 ECE/CS 
-
-
-  Avid Rustacean 🦀
-
-
-  🏃 🏊 🧗‍♂️ OCR
-
-  
-  UP THE IRONS! 🎸🤘'
+  location: "Durham, NC"
+  bio    : "ECE/CS Undergrad, Hardware and Embedded Nerd, and ocassional Wannabe MechE @ Duke University"
 
   links:
     - label: " LinkedIn"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/marc-chmielewski-87547514b/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/blucifer22"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -84,15 +73,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/marc-chmielewski-87547514b/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/blucifer22"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/marc.chmielewski/"
 
 defaults:
   # _posts
