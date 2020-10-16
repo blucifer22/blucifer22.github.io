@@ -38,4 +38,4 @@ Contact[^3]:
 
 [^2]: Sometimes I'm a code monkey at the beach!
 
-[^3]: Short-band radio, carrier pigeon, and sufficiently well-coordinated smoke signals are also acceptable means of contact
+[^3]: Shortwave radio, carrier pigeon, and sufficiently well-coordinated smoke signals are also acceptable means of contact
