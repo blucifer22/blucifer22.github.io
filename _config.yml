@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+repository: blucifer22/blucifer22.github.io
 favicon: "/assets/images/favicon.ico"
 title: Marc-Up
 logo: "/assets/images/marc-up-88x88.png"
 email: marc.steven.chmielewski@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Marc Chmielewski's portfolio/blog/random musings about engineering, code, and the meaning of everything.
+  Marc's portfolio/blog/random musings about engineering, code, and the meaning of everything.
 github_username: blucifer22
 minimal_mistakes_skin: dark
 search: true
@@ -30,7 +31,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: UTC−04:00 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages

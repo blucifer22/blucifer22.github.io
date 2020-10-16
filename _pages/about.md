@@ -13,7 +13,7 @@ The purpose of this site is triplicate:
 
 - To chronicle my (mis)adventures in the Engineer-O-Sphere(TM)
 - To showcase some cool projects, FOSS, and other stuff I've been monkeying on
-- Provide my fellow gifted primates with tutorials, advice[^1], and other thought-germs and musings I've picked up along the way
+- Provide my fellow gifted primates with tutorials, advice[^1], and other thought-germs I've picked up along the way
 
 Formalities aside, this page is designed to give a bit of a window into what us engineering folks actually *do*. (Read: I'm not ALWAYS a code monkey![^2]) Hopefully it accomplishes this goal. If not, I'm gonna assume the secondary objectives of *"chronicling the increasingly depraved rants of an Electrical Engineering student"* and *"occasionally being mistaken for that other famous guy with the -ski last name"* will near-certainly have been met. :wink:
 
